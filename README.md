@@ -105,7 +105,7 @@
             height="40" /> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img
             src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40"
             height="40" /> </a> <a href="https://handlebarsjs.com/"> <img src="https://www.vectorlogo.zone/logos/handlebarsjs/handlebarsjs-ar21.svg"
-            alt="handlebars" width="40" height="40" /> </a> 
+            alt="handlebars" width="60" height="40" /> </a> 
             <a href="https://ejs.co/"> <img src="https://www.svgrepo.com/show/373574/ejs.svg"
                 alt="handlebars" width="40" height="40" /> </a>
         </p>
